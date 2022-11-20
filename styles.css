@@ -1,0 +1,22 @@
+.highlightLineOnHover:hover {
+    background: yellow;
+}
+
+#container {
+}
+
+#wrappingText {
+    display: inline;
+}
+
+#highlighter {
+    background-color: yellow;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+
+.overlayContent {
+    width: 400px;
+    margin: 0 auto;
+}
