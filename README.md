@@ -1,2 +1,2 @@
-# YouRule
-Chrome extension for showing symbols for a word on hover for users with dyslexia 
+# OpenSymbol
+Browser extension that highlights the words the mouse cursor is on, and shows a symbol which best encapsulates the word.
